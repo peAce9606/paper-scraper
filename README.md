@@ -1,4 +1,3 @@
-
 PaperScraper
 ============
 PaperScraper facilitates the extraction of text and meta-data from scientific journal articles for use in NLP systems.
